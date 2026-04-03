@@ -1,5 +1,5 @@
-Global Brightness: 4%
-Layout: 48%
+Global Brightness: 50%
+Layout: 100%
 ----
 Volume Boost: 45
 BG color: #000000
